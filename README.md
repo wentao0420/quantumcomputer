@@ -19,7 +19,7 @@ Submission on 19th December 2022, by
 
 **Brief Introduction:**
 
-This library that we found is a library for Python which made it possible to run quantum computing simulations on an ordinary computer (it was a kind of a virtual quantum computer).
+This library that we found is a Python library which made it possible to run quantum computing simulations on an ordinary computer (it was a kind of a virtual quantum computer).
 
 The basic units of information in quantum computing which are implemented in the library are qubits and quantum registers. Qubit is a normalised vector in the two-dimensional, complex Hilbert state space of two-level quantum system. The coordinates of the vector define the probability of observing the qubit base states. Therefore, the qubit |Phi> holds the superposition of two basic states |0> and |1>, simultaneously:
 
