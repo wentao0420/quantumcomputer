@@ -3,10 +3,14 @@
 Course: How does a quantum computer work? 
 
 Submission by
-Name, mail, matrix
-Name, mail, matrix
-Name, mail, matrix
-Name, mail, matrix
+
+**Ereny Magdy Ramzy Shehat (mail, matrix)**
+
+**Boon Tao Chew (bchew@uni-osnabrueck.de, 1000156)**
+
+**Eric Hrybinski (ehrybinski@uni-osnabrueck.de, 973564)**
+
+**Paul Neuhaus (pneuhaus@uni-osnabrueck.de, 996906)**
 
 on 19th December 2022
 
