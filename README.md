@@ -4,7 +4,7 @@ Course: How does a quantum computer work?
 
 ---
 
-Submission by
+Submission on 19th December 2022, by
 
 **Ereny Magdy Ramzy Shehat (mail, matrix)**
 
@@ -14,8 +14,6 @@ Submission by
 
 **Paul Neuhaus (pneuhaus@uni-osnabrueck.de, 996906)**
 
-
-on 19th December 2022
 
 ---
 
