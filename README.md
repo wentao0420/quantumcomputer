@@ -1,5 +1,7 @@
 # quantumcomputer
 
+Course: How does a quantum computer work? 
+
 Submission by
 Name, mail, matrix
 Name, mail, matrix
@@ -7,6 +9,7 @@ Name, mail, matrix
 Name, mail, matrix
 
 on 19th December 2022
+
 ---
 
 This Library that we found is a library for Python which made it possible to run quantum computing simulations on an ordinary computer (it was a kind of a virtual quantum computer).
