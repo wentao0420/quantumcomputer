@@ -2,6 +2,7 @@
 
 Course: How does a quantum computer work? 
 
+---
 
 Submission by
 
