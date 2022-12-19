@@ -38,7 +38,7 @@ By Google search engine we found the LinkedIn account of a professor named "Dr. 
 
 ### Why do we choose this library?
 
-The library defines various quantam gates that can be important in building blocks for many quantum algorithms:
+The library defines various quantum gates that can be important in building blocks for many quantum algorithms:
 
 - Identity (It is often used as a placeholder in quantum circuits to maintain the proper number of qubits)
 - Hadamard (It is often used to prepare qubits for quantum algorithms and is an important building block for many quantum algorithms)
