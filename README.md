@@ -48,4 +48,4 @@ The library defines various quantam gates that can be important in building bloc
 - Toffoli (Controlled Not gate)
 - Fredkin (Controlled Swap gate)
 - Swap
-- Arbitrary(it is a quantum gate that can perform any operation on a quantum state that is allowed by the laws of quantum mechanics. It is often used the design and analysis of quantum algorithms and it is very useful for exploring the capabilities and limitations of quantum computers)
+- Arbitrary (It is a quantum gate that can perform any operation on a quantum state that is allowed by the laws of quantum mechanics. It is often used the design and analysis of quantum algorithms and it is very useful for exploring the capabilities and limitations of quantum computers)
