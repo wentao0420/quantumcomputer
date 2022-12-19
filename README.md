@@ -6,7 +6,7 @@
 
 Submission on *19th December 2022*, by
 
-**Ereny Magdy Ramzy Shehat (mail, matrix)**
+**Ereny Magdy Ramzy Shehat (eshehat@uni-osnabrueck.de, 999995)**
 
 **Boon Tao Chew (bchew@uni-osnabrueck.de, 1000156)**
 
