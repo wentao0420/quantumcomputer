@@ -1,6 +1,6 @@
 # quantumcomputer
 
-###Course: How does a quantum computer work? 
+### Course: How does a quantum computer work? 
 
 ---
 
