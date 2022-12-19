@@ -6,13 +6,13 @@
 
 Submission on *19th December 2022*, by
 
-**Ereny Magdy Ramzy Shehat (eshehat@uni-osnabrueck.de, 999995)**
++ **Ereny Magdy Ramzy Shehat (eshehat@uni-osnabrueck.de, 999995)**
 
-**Boon Tao Chew (bchew@uni-osnabrueck.de, 1000156)**
++ **Boon Tao Chew (bchew@uni-osnabrueck.de, 1000156)**
 
-**Eric Hrybinski (ehrybinski@uni-osnabrueck.de, 973564)**
++ **Eric Hrybinski (ehrybinski@uni-osnabrueck.de, 973564)**
 
-**Paul Neuhaus (pneuhaus@uni-osnabrueck.de, 996906)**
++ **Paul Neuhaus (pneuhaus@uni-osnabrueck.de, 996906)**
 
 
 ---
